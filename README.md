@@ -3,6 +3,9 @@ A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engin
 
 You have to change the code in `authorize_ee.ipynb` to make it run. Unfortunately this changed with the new version of the GEE Python API. I'll fix it as soon as I have time for it.<br><br><br>
 
+## Jupyter Notebook Tutorials for Google Earth Engine
+
+
 #### 001 Landcover Classfication for Landsat 8 TOA imagery
 Classification Example for Landsat 8 including several vegetation indices and object feature extraction. Eventually you can't access the training data. In case you are interested in the training data, feel free to contact me.<br><br>
 #### 002 Tasseled Cap Transformation for Landsat 8 TOA imagery
