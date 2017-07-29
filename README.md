@@ -15,7 +15,7 @@ Display Proba-V NDVI (Normalized Difference Vegetation Index) Imagery.<br><br>
 #### 004 Display Proba-V Time-Series
 Display Proba-V NDVI Time-Series using Pandas and Matplotlib.<br><br>
 #### 005 Basic Proba-V Time-Series Analysis
-Basic Proba-V NDVI Time-Series Analysis, including auto correlation, fast fourier transformation and outlier detection.<br><br>
+Basic Proba-V NDVI Time-Series Analysis, including auto correlation, fast fourier transformation and outlier detection.<br><br><br><br>
 
 
 **Note:** If you are interested in more tutorials or code snippets for Google Earth Engine Python API, feel free to write me an email to rene.kopeinig@list.lu.
