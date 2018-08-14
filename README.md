@@ -14,4 +14,9 @@ Display Proba-V NDVI (Normalized Difference Vegetation Index) Imagery.<br><br>
 #### 004 Display Proba-V Time-Series
 Display Proba-V NDVI Time-Series using Pandas and Matplotlib.<br><br>
 #### 005 Basic Proba-V Time-Series Analysis
-Basic Proba-V NDVI Time-Series Analysis, including auto correlation, fast fourier transformation and outlier detection.<br><br>
+Basic Proba-V NDVI Time-Series Analysis, including auto correlation, fast fourier transformation and outlier detection.<br><br> 
+#### 006 Basic Proba-V Time-Series Prediction
+Basic Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA model.<br><br>
+#### 007 Linear Regression 
+Linear regression on Proba-V, Landsat and Chirps precipitation data. Comparing [scikit-learn](http://scikit-learn.org/stable/) and [Statsmodels](http://www.statsmodels.org/stable/index.html) linear regression function.
+<br><br>
