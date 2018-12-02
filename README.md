@@ -1,7 +1,6 @@
 # Google Earth Engine Python API Examples
 A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engine](https://earthengine.google.com/) Python API.
 
-You have to change the code in `authorize_ee.ipynb` to make it run. Unfortunately this changed with the new version of the GEE Python API. I'll fix it as soon as I have time for it.<br><br>
 **Note:** If you are interested in more tutorials or code snippets for Google Earth Engine Python API, feel free to write me an email to renekope@gmail.com.<br><br>
 ## Jupyter Notebook Tutorials for Google Earth Engine
 
