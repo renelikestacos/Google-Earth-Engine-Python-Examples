@@ -19,3 +19,6 @@ Basic Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA
 #### 007 Linear Regression 
 Linear regression on Proba-V, Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data. This tutorial demonstrates the comparison of one of the most common supervised machine learning methods, the linear regression. We are going to compare [scikit-learn](http://scikit-learn.org/stable/) and [Statsmodels](http://www.statsmodels.org/stable/index.html). For more information about types of Machine Learning, check this [link](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861).
 <br><br>
+#### 008 Proba-V Time-Series Forecast
+Multiple step Time-Series Forecast on Proba-V NDVI data using [Facebook Prophet](https://github.com/facebook/prophet). Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data were used as additional regressors.
+<br><br>
