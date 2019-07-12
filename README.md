@@ -1,7 +1,7 @@
 # Google Earth Engine Python API Examples
 A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engine](https://earthengine.google.com/) Python API.
 
-**Note:** After a half year break, I am going to do more tutorials for Google Earth Engine Python API in the upcoming weeks and months.<br><br>
+**Note: More tutorials for Google Earth Engine Python API coming in 2019.**<br><br>
 ## Jupyter Notebook Tutorials for Google Earth Engine
 
 #### 001 Landcover Classfication for Landsat 8 TOA imagery
