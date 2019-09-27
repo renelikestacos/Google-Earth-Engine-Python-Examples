@@ -1,6 +1,3 @@
-
+.DS_Store
 GoogleMap.png
-.ipynb_checkpoints/001_ee_classification_ls8_toa-checkpoint.ipynb
-.ipynb_checkpoints/006_ee_basic_Proba-V_NDVI_Prediction-checkpoint.ipynb
-.ipynb_checkpoints/009_ee_Correlation_Analysis-checkpoint.ipynb
-.ipynb_checkpoints/008_ee_Proba-V_Time-Series_Forecast-checkpoint.ipynb
+.ipynb_checkpoints/*
