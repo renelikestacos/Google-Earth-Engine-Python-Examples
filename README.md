@@ -5,7 +5,8 @@ A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engin
 ## Jupyter Notebook Tutorials for Google Earth Engine
 
 #### 001 Landcover Classfication for Landsat 8 TOA imagery
-Classification Example for Landsat 8 including several vegetation indices and object feature extraction. Eventually you can't access the training data. In case you are interested in the training data, feel free to contact me.<br><br>
+Classification Example for Landsat 8 including several vegetation indices and object feature extraction. 
+This example is based on the scientfic work "[MAD-MEX: Automatic Wall-to-Wall Land Cover Monitoring for the Mexican REDD-MRV Program Using All Landsat Data](https://www.mdpi.com/2072-4292/6/5/3923)" by S.Gebhardt et. al 2014. Eventually you can't access the training data. In case you are interested in the training data, feel free to contact me.<br><br>
 #### 002 Tasseled Cap Transformation for Landsat 8 TOA imagery
 Tasseled Cap Transformation for Landsat 8 TOA imagery based on the scientfic work "Derivation of a tasselled cap transformation based on Landsat 8 at-satellite reflectance" by M.Baigab, L.Zhang, T.Shuai & Q.Tong (2014).<br><br>
 #### 003 Display Proba-V NDVI Imagery
