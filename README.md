@@ -9,10 +9,10 @@ Classification Example for Landsat 8 including several vegetation indices and ob
 This example is based on the scientfic work "[MAD-MEX: Automatic Wall-to-Wall Land Cover Monitoring for the Mexican REDD-MRV Program Using All Landsat Data](https://www.mdpi.com/2072-4292/6/5/3923)" by S.Gebhardt et. al 2014. Eventually you can't access the training data. In case you are interested in the training data, feel free to contact me.<br><br>
 #### 002 Tasseled Cap Transformation for Landsat 8 TOA imagery
 Tasseled Cap Transformation for Landsat 8 TOA imagery based on the scientfic work "Derivation of a tasselled cap transformation based on Landsat 8 at-satellite reflectance" by M.Baigab, L.Zhang, T.Shuai & Q.Tong (2014).<br><br>
-#### 003 Display Proba-V NDVI Imagery
-Display Proba-V NDVI (Normalized Difference Vegetation Index) Imagery.<br><br>
-#### 004 Display Proba-V Time-Series
-Display Proba-V NDVI Time-Series using Pandas and Matplotlib.<br><br>
+#### 003 Proba-V NDVI Comparison
+Comparison on Proba-V NDVI (Normalized Difference Vegetation Index) Imagery. One NDVI is derived on the fly, the other one is the actual NDVI band provided by Proba-V.<br><br>
+#### 004 Retrieve Proba-V Time-Series
+Display Proba-V NDVI (Normalized Difference Vegetation Index) Time-Series using Pandas and Matplotlib. Extracting Proba-V NDVI data from a randomly chosen point in Luxembourg.<br><br>
 #### 005 Basic Proba-V Time-Series Analysis
 Basic Proba-V NDVI Time-Series Analysis, including auto correlation, fast fourier transformation and outlier detection.<br><br> 
 #### 006 Basic Proba-V Time-Series Prediction
