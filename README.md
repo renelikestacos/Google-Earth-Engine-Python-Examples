@@ -23,5 +23,5 @@ Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA model
 <br><br><br><br>
 ## Coming soon
 <br>
-#### 008 Google Earth Engine meets GeoPandas
+Google Earth Engine meets GeoPandas
 <br>
