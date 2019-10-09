@@ -20,4 +20,8 @@ Linear regression on Proba-V, Landsat and Climate Hazards Group InfraRed Precipi
 <br>
 #### 007 Time-Series Prediction and Forecast
 Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA model. Multiple step Time-Series Forecast on Proba-V NDVI data using [Facebook Prophet](https://github.com/facebook/prophet). Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data were used as additional regressors. <br><br>
-<br><br>
+<br><br><br><br>
+## Coming soon
+<br>
+#### 008 Google Earth Engine meets GeoPandas
+<br>
