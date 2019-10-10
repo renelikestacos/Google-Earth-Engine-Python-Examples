@@ -4,6 +4,16 @@ A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engin
 **Note: More tutorials for Google Earth Engine Python API coming in 2019.**<br><br>
 ## Jupyter Notebook Tutorials for Google Earth Engine
 
+<br>
+
+## Coming soon
+<br>
+
+### 008 Google Earth Engine meets GeoPandas
+
+<br>
+
+
 #### 001 Landcover Classfication for Landsat 8 TOA imagery
 Classification Example for Landsat 8 including several vegetation indices and object feature extraction. 
 This example is based on the scientfic work "[MAD-MEX: Automatic Wall-to-Wall Land Cover Monitoring for the Mexican REDD-MRV Program Using All Landsat Data](https://www.mdpi.com/2072-4292/6/5/3923)" by S.Gebhardt et. al 2014. Eventually you can't access the training data. In case you are interested in the training data, feel free to contact me.<br><br>
@@ -21,7 +31,4 @@ Linear regression on Proba-V, Landsat and Climate Hazards Group InfraRed Precipi
 #### 007 Time-Series Prediction and Forecast
 Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA model. Multiple step Time-Series Forecast on Proba-V NDVI data using [Facebook Prophet](https://github.com/facebook/prophet). Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data were used as additional regressors. <br><br>
 <br><br><br><br>
-## Coming soon
-<br>
-Google Earth Engine meets GeoPandas
-<br>
+
