@@ -2,17 +2,14 @@
 A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engine](https://earthengine.google.com/) Python API.
 
 **Note: More tutorials for Google Earth Engine Python API coming in 2019.**<br><br>
+
+<br>
+
+#### Coming soon: 008 Google Earth Engine meets GeoPandas
+
+<br>
+
 ## Jupyter Notebook Tutorials for Google Earth Engine
-
-<br>
-
-## Coming soon
-<br>
-
-### 008 Google Earth Engine meets GeoPandas
-
-<br>
-
 
 #### 001 Landcover Classfication for Landsat 8 TOA imagery
 Classification Example for Landsat 8 including several vegetation indices and object feature extraction. 
