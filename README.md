@@ -23,7 +23,7 @@ Linear regression on Proba-V, Landsat and Climate Hazards Group InfraRed Precipi
 Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA model. Multiple step Time-Series Forecast on Proba-V NDVI data using [Facebook Prophet](https://github.com/facebook/prophet). Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data were used as additional regressors. 
 <br>
 #### 008 Google Earth Engine meets GeoPandas
-Extracting Landsat 8 TOA and CHIRPS precipitation data from Google Earth Engine and use Geopandas capabilities to create time series analysis. Furthermore, data will be visualized through a time series viewer and also a heat map
+Extracting Landsat 8 TOA and CHIRPS precipitation data from Google Earth Engine and use [Geopandas](http://geopandas.org/) capabilities to create time series analysis. Furthermore, data will be visualized through a time series viewer and also a heat map
 <br><br>
 <br><br><br><br>
 
