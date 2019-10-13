@@ -3,12 +3,6 @@ A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engin
 
 **Note: More tutorials for Google Earth Engine Python API coming in 2019.**<br><br>
 
-<br>
-
-#### Coming soon: 008 Google Earth Engine meets GeoPandas
-
-<br>
-
 ## Jupyter Notebook Tutorials for Google Earth Engine
 
 #### 001 Landcover Classfication for Landsat 8 TOA imagery
@@ -26,6 +20,10 @@ Basic Time-Series Analysis using Proba-V NDVI (Normalized Difference Vegetation 
 Linear regression on Proba-V, Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data. This tutorial demonstrates the comparison of one of the most common supervised machine learning methods, the linear regression. We are going to compare [scikit-learn](http://scikit-learn.org/stable/) and [Statsmodels](http://www.statsmodels.org/stable/index.html). For more information about types of Machine Learning, check this [link](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861).
 <br>
 #### 007 Time-Series Prediction and Forecast
-Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA model. Multiple step Time-Series Forecast on Proba-V NDVI data using [Facebook Prophet](https://github.com/facebook/prophet). Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data were used as additional regressors. <br><br>
+Proba-V NDVI Time-Series Prediction, using Fourier extrapolation and ARIMA model. Multiple step Time-Series Forecast on Proba-V NDVI data using [Facebook Prophet](https://github.com/facebook/prophet). Landsat and Climate Hazards Group InfraRed Precipitation (CHRIPS) data were used as additional regressors. 
+<br>
+#### 008 Google Earth Engine meets GeoPandas
+Extracting Landsat 8 TOA and CHIRPS precipitation data from Google Earth Engine and use Geopandas capabilities to create time series analysis. Furthermore, data will be visualized through a time series viewer and also a heat map
+<br><br>
 <br><br><br><br>
 
