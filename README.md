@@ -28,7 +28,7 @@ Extracting Landsat 8 TOA and CHIRPS precipitation data from Google Earth Engine 
 ![alt text](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples/blob/master/src/img/008_geopandas.png "")
 <br><br>
 
-and also a heat map using [Folium](https://python-visualization.github.io/folium/).
+and also a precipitation heat map using [Folium](https://python-visualization.github.io/folium/).
 
 ![alt text](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples/blob/master/src/img/008_heatmap.png "")
 <br><br><br><br>
