@@ -1,0 +1,8 @@
+earthengine-api
+folium
+sklearn
+seaborn
+geopandas
+matplotlib
+fbprophet
+statsmodels
