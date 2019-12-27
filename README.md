@@ -31,7 +31,7 @@ Extracting Landsat 8 TOA and CHIRPS precipitation data from Google Earth Engine 
 
 and also a precipitation heat map using [Folium](https://python-visualization.github.io/folium/).
 ![alt text](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples/blob/master/src/img/008_heatmap.png "")
-<br>
+<br><br>
 #### 009 Google Earth Engine Objects Visualization using [Folium](https://python-visualization.github.io/folium/)
 In this tutorial, Earth Engine Objects (e.g. Image) will be visualized in Folium maps.<br><br>
 ![alt text](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples/blob/master/src/img/009_folium.png "")
