@@ -1,5 +1,5 @@
 # Google Earth Engine Python API Examples
-A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engine](https://earthengine.google.com/) Python API.
+A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engine](https://earthengine.google.com/) [Python](http://www.python.org) API.
 
 ## Jupyter Notebook Tutorials for Google Earth Engine
 
