@@ -1,3 +1,7 @@
+<br>
+**Update**: Now using Folium for image visualization.
+<br><br><br><br>
+
 # Google Earth Engine Python API Examples
 A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engine](https://earthengine.google.com/) [Python](http://www.python.org) API.
 
