@@ -1,5 +1,4 @@
-<br>
-**Update**: Now using Folium for image visualization.
+**Update:** Now using Folium for image visualization.
 <br><br><br><br>
 
 # Google Earth Engine Python API Examples
