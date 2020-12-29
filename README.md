@@ -1,4 +1,4 @@
-**Update:** There will be no more updates. Unfortunately, I stopped working with Google Earth Engine.
+**Update:** There will be no more updates. Unfortunately, I stopped working on my Google Earth Engine related projects.
 <br><br><br><br>
 
 # Google Earth Engine Python API Examples
