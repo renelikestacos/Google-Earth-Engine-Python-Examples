@@ -1,4 +1,4 @@
-**Update:** Now using Folium for image visualization.
+**Update:** There will be no more updates. Unfortunately, I stopped working with Google Earth Engine.
 <br><br><br><br>
 
 # Google Earth Engine Python API Examples
