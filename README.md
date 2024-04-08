@@ -1,6 +1,3 @@
-**Update:** There will be no more updates. Unfortunately, I stopped working on my Google Earth Engine related projects.
-<br><br><br><br>
-
 # Google Earth Engine Python API Examples
 A collection of [Jupyter Notebooks](http://jupyter.org/) for [Google Earth Engine](https://earthengine.google.com/) [Python](http://www.python.org) API.
 
